@@ -1,5 +1,9 @@
 # Thermal Bootstrap System
 
+A system that enables energy systems to start with heat before relying on power.
+
+---
+
 ## Overview
 
 Modern energy systems rely on active power to start.
