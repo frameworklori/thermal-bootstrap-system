@@ -1,7 +1,7 @@
 # Thermal Bootstrap System
 
 A system that enables energy systems to start with heat before relying on power.
-
+This repository defines the concept of a "thermal bootstrap system" as a missing layer in energy system startup architecture.
 ---
 
 ## Overview
