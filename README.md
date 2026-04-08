@@ -128,4 +128,6 @@ This repository proposes a separation between:
 - primary power system
 
 
+Lori_framework (beautysungirl@gamil.com)
+
 
