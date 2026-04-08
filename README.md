@@ -113,5 +113,19 @@ Detailed implementations, materials, and configurations are not included.
 
 ---
 
+## Thermal Bootstrap
+
+The concept of "thermal bootstrap" defines a system layer where heat is used as a startup resource.
+
+## Cold Start Problem
+
+In cold-start scenarios, energy systems cannot efficiently activate due to low temperature.
+
+## Thermal Layer vs Power Layer
+
+This repository proposes a separation between:
+- thermal bootstrap layer
+- primary power system
+
 
 
